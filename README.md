@@ -8,7 +8,7 @@ Include a 4-DOF robotic arm, and a 1-DOF gripper
 ## The robotic gripper
 * The gripper can be driven by an electric motor. 
 ## The controller
-* Use a programmable a single-board microcontrollers and microcontroller (Arduino board)
+* Use a programmable a single-board microcontroller (Arduino board)
 * Write a kinematic controller of the robotic arm and the gripper.
   * The controller implement the inverse kinematics of the robotic arm
   * The gripper can be designed to have two modes: open/close
